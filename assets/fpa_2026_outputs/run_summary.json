@@ -1,0 +1,24 @@
+{
+  "cutoff": "2026-06-01",
+  "last_observed_footfall": "2026-05-25",
+  "forecast_end": "2026-12-31",
+  "champion_model": "YearAgoSameWeekday",
+  "best_of_four_models": "SARIMA",
+  "actual_transactions": 6805,
+  "footfall_records": 2550,
+  "strategy_assumptions": {
+    "revenue_gap_recovery": 0.5,
+    "cogs_gap_recovery": 0.5,
+    "wage_gap_recovery": 0.5,
+    "extra_marketing": 23849.164000000004,
+    "extra_training": 8099.333999999999
+  },
+  "notes": [
+    "All FY2026 financial values are estimates.",
+    "No FY2026 accounting actuals were provided.",
+    "Forecast models use historical footfall.",
+    "Strategy adjustments start in July 2026.",
+    "No Bear/Base/Bull scenarios are included.",
+    "No sensitivity analysis is included."
+  ]
+}
