@@ -36,11 +36,15 @@ Nova reported an **EBITDA shortfall of £785K (−15%)** against budget, despite
 
 Revenue underperformance accounted for approximately 48.5% of the EBITDA shortfall, while cost overruns explained the remaining 51.5%.
 
-**[INSERT CHART: FY2025 EBITDA Budget vs Actual Waterfall]**
+### FY2025 EBITDA Budget vs Actual Waterfall
+![**FY2025 EBITDA Budget vs Actual Waterfall**](Chart/B_vs_A.png)
+
 
 F&B contributed the largest revenue shortfall, while Bristol recorded the lowest site-level EBITDA margin (24.45%).
 
-**[INSERT CHART: FY2025 Site Profitability Comparison]**
+### Site Profitability Comparison
+![FY2025 Site Profitability Comparison (Y - EBITDA margin, X - Revenue, Size - EBITDA)](Chart/Site.png)
+
 
 ## 3. UK Macroeconomic Context
 
@@ -80,11 +84,15 @@ Rolling-origin backtesting evaluated MAE, WAPE and forecast bias over 28-day and
 
 The **Year-Ago Same Weekday benchmark** outperformed all four models, achieving approximately **12.2% weighted WAPE**.
 
-**[INSERT CHART: 01_model_wape.png — Forecast Model Comparison]**
+### Model Performance Comparison
+![F_Model_Comparisiom](Chart/F_Model_Comparision.png)
+
 
 The selected approach forecasts site-level daily visitors through 31 December 2026.
 
-**[INSERT CHART: 02_footfall_forecast.png — Actual vs Forecast Footfall]**
+### Actual vs Forecast Footfall
+![Actual vs Forecast Footfall](Chart/F_Footfall.png)
+
 
 ### Step 3 – Financial Forecasting
 
@@ -122,11 +130,15 @@ Three macroeconomic scenarios were tested:
 
 The analysis compares strategies using forecast EBITDA, EBITDA margin, incremental EBITDA and Bear Case resilience.
 
-**[INSERT CHART: 13_scenario_comparison.png — Strategic Scenario Comparison]**
+### Strategic Scenario Comparison
+![Scenario Comparison](Chart/Scenario_Comparision.png)
+
 
 A further sensitivity test evaluated **25 combinations of footfall and COGS shocks**.
 
-**[INSERT CHART: 14_ebitda_sensitivity.png — EBITDA Sensitivity Heatmap]**
+### EBITDA Sensitivity Analysis
+![EBITDA Sensitivity Heatmap](Chart/EBITA_Sensitivity.png)
+
 
 ## 7. Results & Recommendation
 
@@ -141,7 +153,9 @@ A further sensitivity test evaluated **25 combinations of footfall and COGS shoc
 | Bear Case Incremental EBITDA | +£93.2K |
 | Sensitivity Tests Won | 25/25 |
 
-**[INSERT CHART: 03_strategy_ebitda.png — Monthly EBITDA Forecast by Strategy]**
+### Monthly EBITDA Forecast by Strategy
+![Monthly EBITDA Forecast by Strategy](Chart/F_EBITDA_Monthly.png)
+
 
 ### Recommendation
 
